@@ -7,4 +7,4 @@ title: "Exemplo #1"
 
 [Eu não lendo a documentação e passando vergonha](https://github.com/lwsjs/lws/issues/13)
 
-[Eu recebendo uma aula grátis no PR e recebendo uma força o mantenedor](https://github.com/lwsjs/lws/pull/16)
+[Eu recebendo uma aula grátis no PR e recebendo uma força do mantenedor](https://github.com/lwsjs/lws/pull/16)
