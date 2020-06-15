@@ -1,9 +1,7 @@
 ---
 layout: slide
-title: "Olha que interessante..."
+title: "Em 3 OSF eu contribuí com:"
 ---
-
-Em 3 open source fridays eu contribuí com:
 
 1. código
 1. documentação
