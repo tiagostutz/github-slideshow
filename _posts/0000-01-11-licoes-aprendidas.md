@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Em 3 OSF eu contribuí com:"
+title: "Em 3 sextas-feiras:"
 ---
 
 1. código
