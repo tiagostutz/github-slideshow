@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Uma questão técnica importante"
+title: "Uma questão técnica"
 ---
 
 -   Web? Open Source. Mobile? Open Source. Big Data? Open source. Data Science? Open source. Infra/Devops? Open Source. UX? Open Source.
