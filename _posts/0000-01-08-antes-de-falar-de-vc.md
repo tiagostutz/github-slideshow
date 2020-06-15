@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Mas, espera, já já nós vamos falar de VOCÊ. Primeiro vamos fazer uma pausa pra falar de mim. 😏"
+title: "Dois exemplos do open source na prática"
 ---
 
-Dois exemplos do open source na real...
+Mas, espera, já já nós vamos falar de VOCÊ. Primeiro vamos fazer uma pausa pra falar de mim. 😏
