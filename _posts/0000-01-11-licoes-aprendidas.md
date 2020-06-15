@@ -3,4 +3,11 @@ layout: slide
 title: "Olha que interessante..."
 ---
 
-Mas, espera, já já nós vamos falar de VOCÊ. Primeiro vamos fazer uma pausa pra falar de mim. 😏
+Em 3 open source fridays eu contribuí com:
+
+1. código
+1. documentação
+1. revisão de PR
+1. issue
+1. sponsor
+1. demo
